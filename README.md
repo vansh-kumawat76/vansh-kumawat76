@@ -1,29 +1,55 @@
-<h1 align="center">Hi 👋, I'm Himanshu Kumawat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vansh-kumawat76&label=Profile%20views&color=0e75b6&style=flat" alt="vansh-kumawat76" /> </p>
-
-- 🌱 I’m currently learning **Web Development**
-
-- 👨‍💻 All of my projects are available at [https://onecompiler.com/users/426n7zb76/codes](https://onecompiler.com/users/426n7zb76/codes)
-
-- 📫 How to reach me **kumawatvansh765@gmail.com**
-
-- 📄 Know about my experiences [file:///C:/Users/TEMP.VANSHIAS.015/Downloads/Himanshu%20Kumawat%20-1.pdf](file:///C:/Users/TEMP.VANSHIAS.015/Downloads/Himanshu%20Kumawat%20-1.pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/himanshukumawat7611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshukumawat7611" height="30" width="40" /></a>
-<a href="https://instagram.com/vansh_kumawat330987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vansh_kumawat330987" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/allgaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="allgaming" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://www.naukri.com/code360/profile/edit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://www.naukri.com/code360/profile/edit" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vansh-kumawat76/vansh-kumawat76/main/banner.png" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Himanshu Kumawat</h1>
+<h3 align="center">🚀 Frontend Developer | Web Enthusiast</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vansh-kumawat76&show_icons=true&locale=en&layout=compact" alt="vansh-kumawat76" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vansh-kumawat76&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vansh-kumawat76&show_icons=true&locale=en" alt="vansh-kumawat76" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vansh-kumawat76&" alt="vansh-kumawat76" /></p>
+### 👨‍💻 About Me
+- 🌱 I’m currently learning **Full Stack Web Development**
+- 💡 I love building **modern & responsive websites**
+- 🎯 Goal: Become a professional developer
+- 📫 Email: **kumawatvansh765@gmail.com**
+
+---
+
+### 🌐 Connect with me
+<p align="center">
+<a href="https://linkedin.com/in/himanshukumawat7611"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://instagram.com/vansh_kumawat330987"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+<a href="https://www.youtube.com/c/allgaming"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,c,cpp" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+🔹 <a href="https://github.com/vansh-kumawat76/portfolio-website">Portfolio Website</a>  
+🔹 <a href="https://github.com/vansh-kumawat76/ecommerce-website">E-Commerce Website</a>  
+🔹 <a href="https://github.com/vansh-kumawat76/weather-app">Weather App</a>  
+🔹 <a href="https://github.com/vansh-kumawat76/todo-app">Todo App</a>  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vansh-kumawat76&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vansh-kumawat76&theme=tokyonight" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+💬 I love turning ideas into real-world web apps
