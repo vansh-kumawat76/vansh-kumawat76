@@ -42,6 +42,7 @@
 🔹 <a href="https://github.com/vansh-kumawat76/todo-app">Todo App</a>  
 
 ---
+<br/>
 
 ### 📊 GitHub Stats
 <p align="center">
